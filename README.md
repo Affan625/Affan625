@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Kumail Ali Affan625
-- 👀 I’m interested in coding
+- 👀 I’m currently doing BS in AI/ML.
 - 🌱 I’m currently learning programming languages like(Python,C++,JavaScript,HTML,CSS<Java) 
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me insta id(kumaiL1589)/kumailhussainkumailhussain2@gmail.com

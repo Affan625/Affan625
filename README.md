@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Kumail Ali Affan625
+- 👋 Hi, I’m @ Kumail Hussain
 - 👀 I’m currently doing BS in AI/ML.
 - 🌱 I’m currently learning programming languages like(Python,C++,JavaScript,HTML,CSS<Java) 
 - 💞️ I’m looking to collaborate on different projects
